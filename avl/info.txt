@@ -1,0 +1,17 @@
+rightRotate:
+
+o nó temporário recebe o filho direito da raiz;
+seto o filho direito do temporário para ser o filho esquerdo da raiz;
+
+se o nó temporario (13) tiver filho a direita, 
+digo que ele vai ser a raiz, no caso seu pai passar ser o atual (rotação simples)
+
+
+
+left Rotation:
+o nó filho a direita(b) da raiz atual(a) deve se tornar a nova raiz;
+a raiz antiga(a) vira pai do filho do nó direito(b) como filho direito;
+o nó que antes era filho direito(b) passa ter o nó raiz antigo como seu filho esquerdo(a);
+
+rightRotaation:
+

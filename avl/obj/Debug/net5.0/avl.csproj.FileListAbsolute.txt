@@ -1,0 +1,16 @@
+/home/lucas/ds/avl/obj/Debug/net5.0/avl.csprojAssemblyReference.cache
+/home/lucas/ds/avl/obj/Debug/net5.0/avl.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/ds/avl/obj/Debug/net5.0/avl.AssemblyInfoInputs.cache
+/home/lucas/ds/avl/obj/Debug/net5.0/avl.AssemblyInfo.cs
+/home/lucas/ds/avl/obj/Debug/net5.0/avl.csproj.CoreCompileInputs.cache
+/home/lucas/ds/avl/bin/Debug/net5.0/avl
+/home/lucas/ds/avl/bin/Debug/net5.0/avl.deps.json
+/home/lucas/ds/avl/bin/Debug/net5.0/avl.runtimeconfig.json
+/home/lucas/ds/avl/bin/Debug/net5.0/avl.runtimeconfig.dev.json
+/home/lucas/ds/avl/bin/Debug/net5.0/avl.dll
+/home/lucas/ds/avl/bin/Debug/net5.0/ref/avl.dll
+/home/lucas/ds/avl/bin/Debug/net5.0/avl.pdb
+/home/lucas/ds/avl/obj/Debug/net5.0/avl.dll
+/home/lucas/ds/avl/obj/Debug/net5.0/ref/avl.dll
+/home/lucas/ds/avl/obj/Debug/net5.0/avl.pdb
+/home/lucas/ds/avl/obj/Debug/net5.0/avl.genruntimeconfig.cache
